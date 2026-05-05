@@ -14,3 +14,14 @@ To design an interactive dashboard using Python and Excel that analyzes global r
 4.Which service line showed the strongest balance of revenue and profit growth?
 
 5.Which region demonstrated the most consistent profitability across months?
+
+## Process
+1.Collected data for revenue, profit, and margins (2024–2025).
+
+2.Cleaned and prepared the dataset using Python (Pandas).
+
+3.Analyzed trends and calculated growth metrics with Python.
+
+4.Built pivot tables and KPI cards in Excel.
+
+5.Designed dashboard combining visuals and insights for business impact.
