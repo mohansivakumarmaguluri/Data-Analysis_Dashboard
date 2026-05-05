@@ -25,3 +25,9 @@ To design an interactive dashboard using Python and Excel that analyzes global r
 4.Built pivot tables and KPI cards in Excel.
 
 5.Designed dashboard combining visuals and insights for business impact.
+
+## Project Overview
+The InsightEdge Dashboard was developed using Python and Excel to analyze global financial performance across 2024–2025. It integrates monthly data for six regions and six service lines, covering revenue, net profit, EBITDA, PBT, and operating margins. Python was used for data cleaning, calculations, and chart generation, while Excel pivot tables and KPI cards provided interactivity and visualization.
+
+## Project Conclusion
+The dashboard successfully highlights year‑over‑year growth, profitability trends, and margin improvements. Key insights show Digital Ops and IT Services as top growth drivers, with Africa and Middle East leading regional expansion. This project demonstrates how combining Python automation with Excel visualization can deliver business‑ready dashboards that support strategic decision‑making
